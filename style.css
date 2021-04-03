@@ -1,0 +1,144 @@
+body{
+	font-family: sans-serif;
+	background-image: url(bgl1.jpg);
+	background-size:cover;
+	font-weight: 300;
+	text-align: center;
+	/*ketebalan font*/
+	color : #FFF8DC ;
+}
+.tulisan_login{
+ 	font-size: 20pt;
+	font-weight: bold;
+    font-family: sans-serif;
+	color : white ;
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+
+.kotak_login{
+	width: 350px;
+	background : transparan;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+	box-shadow: 0px 0px 100px 4px #d6d6d6;
+}
+
+label{
+	font-size: 12pt;
+}
+
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: salmon;
+	color: blue;
+	font-size: 11pt;
+	font-weight: bold;
+	width: 100%;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 20px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
+
+.alert{
+	background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #b32929;
+}
+
+     
+    table {
+      border: solid 1px #DDEEEE;
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 85% ;
+      margin: 10px auto 10px auto;
+    }
+    table thead th {
+        background-color: #87CEFA;
+        border: solid 1px #DDEEEE;
+        color: #191970;
+        padding: 10px;
+        text-align: center;
+        text-shadow: 1px 1px 1px #fff;
+        text-decoration: none;
+    }
+	
+    table tbody td {
+        border: solid 1px #DDEEEE;
+        color: #191970;
+        padding: 10px;
+        text-shadow: 1px 1px 1px #fff;
+		text-align: center;
+    }
+    a {
+	 font-family: "calibri";
+	      background-color: green;
+          color: 	#FFF8DC;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 14px;
+		  
+   }
+       button {
+          background-color: green;
+          color: #fff;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 12px;
+          border: 0px;
+          margin-top: 20px;
+    }
+    label {
+      margin-top: 10px;
+      float: left;
+      text-align: left;
+      width: 100%;
+    }
+    input {
+      padding: 6px;
+      width: 100%;
+      box-sizing: border-box;
+      background: #f8f8f8;
+      border: 2px solid #ccc;
+      outline-color: salmon;
+    }
+    div {
+      width: 100%;
+      height: auto;
+    }
+    .base {
+      width: 450px;
+      height: auto;
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      background: transparan;
+	  margin: 80px auto;
+	  padding: 30px 20px;
+	  box-shadow: 0px 0px 100px 5px #d6d6d6;
+	  border-radius: 10px;
+	  color : #FFF8DC ;
+    }
+	
+       
+      
+	  

@@ -1,0 +1,87 @@
+ 
+      * {
+        font-family: "Trebuchet MS";
+      }
+      h1 {
+        text-transform: uppercase;
+        color: salmon;
+      }
+	  h2 {
+        text-transform: uppercase;
+        font-size: 20pt;
+		font-weight: bold;
+   	 	font-family: sans-serif;
+		color : #FFF8DC;
+		text-align:left;
+      }
+	  h3 {
+        text-transform: uppercase;
+        color: salmon;
+      }
+	  h5 {
+        text-transform: uppercase;
+        color:#999999;
+      }
+	  
+	  table {
+      border: solid 1px #DDEEEE;
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 50%;
+      margin: 10px auto 10px auto;
+    }
+    table thead th {
+        background-color: #87CEFA;
+        border: solid 1px #DDEEEE;
+        color: #191970;
+        padding: 10px;
+        text-align: center;
+        text-shadow: 1px 1px 1px #fff;
+        text-decoration: none;
+    }
+	  
+    button {
+          background-color: salmon;
+          color: #fff;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 12px;
+          border: 0px;
+          margin-top: 20px;
+    }
+    label {
+      margin-top: 10px;
+      float: left;
+      text-align: left;
+      width: 100%;
+    }
+    input {
+      padding: 6px;
+      width: 100%;
+      box-sizing: border-box;
+      background: #f8f8f8;
+      border: 2px solid #ccc;
+      outline-color: salmon;
+    }
+    div {
+      width: 100%;
+      height: auto;
+    }
+    .base {
+      width: 400px;
+      height: auto;
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      background: #ededed;
+    }
+	  a {
+          background-color: salmon;
+          color: #fff;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 12px;
+    }
+	
+	
+   
